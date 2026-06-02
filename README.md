@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| ชากวินท์ เจริญสรรพพืช | Team 19 | Github/web | https://github.com/Chakawin/github101-practice/blob/main/docs/evidence/67050743-Chakawin.md | - |
 
 ---
 
